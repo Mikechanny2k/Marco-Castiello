@@ -6,3 +6,5 @@ Si perde se non si hanno più semi disponibili o si raggiunge il punteggio massi
 Inoltre, non innaffiare il prato o non prendersi cura delle piante porta a perdere le piante e non guadagnare punti.
 Nel gioco multigiocatore: in modalità singola, un giocatore può giocare da solo utilizzando un solo computer. In modalità multigiocatore, più giocatori possono giocare insieme utilizzando lo stesso computer o in modalità online, dove i giocatori possono connettersi e giocare insieme attraverso una connessione internet. In entrambi i casi, ciascun giocatore gestirà il proprio prato e cercherà di guadagnare il più possibile di punti.
 In modalità online, verrà richiesto di creare un sistema di login o un account per accedere al gioco e giocare con gli amici.
+
+La prima parte è stata sviluppata in 8GG con una piccola bizza del progetto i file (per ora) non stati ancora caricati, ma dovrebbero caricarli almeno entro il 25 Maggio
