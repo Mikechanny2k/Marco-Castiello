@@ -13,4 +13,5 @@ Il capo progetto ha pubblicato 2 file .png, contiene il modello concettuale e lo
 Quello fisico, con SQL e richieste HTTP al lato Server, Questo gli chiederà più tempo (max 8gg).
 
 Buon lavoro, a tutti quelli che stanno cercando di concludere la bozza del progetto con: il Front-end (HTML), interfaccia grafica (CSS) e lo scripting nel gioco (JS).
+
 Questo progetto sarà concluso, con scadenza il [25 Maggio 2023 23:59]
