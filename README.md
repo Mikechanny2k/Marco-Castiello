@@ -10,7 +10,7 @@ In modalità online, verrà richiesto di creare un sistema di login o un account
 La prima parte è stata sviluppata in 8GG con una piccola bozza del progetto. 
 I file (per ora) non stati ancora caricati, ma dovrebbero caricarli almeno entro il 25 Maggio
 Il capo progetto ha pubblicato 2 file .png, contiene il modello concettuale e logico del rispettivo ordine di valutazione. 
-Quello fisico, con SQL e richieste HTTP al lato Server, Questo gli chiederà più tempo (max 8gg).
+Quello fisico, con SQL e richieste HTTP al lato Server, gli chiederà più tempo (max 8gg).
 
 Buon lavoro, a tutti quelli che stanno cercando di concludere la bozza del progetto con: il Front-end (HTML), interfaccia grafica (CSS) e lo scripting nel gioco (JS).
 
