@@ -8,9 +8,8 @@ Nel gioco multigiocatore: in modalità singola, un giocatore può giocare da sol
 In modalità online, verrà richiesto di creare un sistema di login o un account per accedere al gioco e giocare con gli amici.
 
 La prima parte è stata sviluppata in 8GG con una piccola bozza del progetto. 
-I file (per ora) non stati ancora caricati 15 Maggio, ma dovrebbero caricarli almeno entro il 25 Maggio
-Ora sono stati caricati il 17 maggio: Index.html, Style.css,shop.html e script.js
-Il capo progetto ha pubblicato 2 file .png, contiene il modello concettuale e logico del rispettivo ordine di valutazione. 
+I file sono stati caricati dal 17 maggio: Index.html, Style.css,shop.html e script.js la parte della Login e config in PHP è sono stati pubblicati nella seconda release (3GG) il 17 Maggio 2023
+Il capo progetto ha pubblicato 2 file .png, contengono il modello concettuale e logico del rispettivo ordine di valutazione, durata 1GG il 14 maggio 2023
 Quello fisico, con SQL e richieste HTTP al lato Server, gli chiederà più tempo (max 8gg).
 
 Buon lavoro, a tutti quelli che stanno cercando di concludere la bozza del progetto con: il Front-end (HTML), interfaccia grafica (CSS) e lo scripting nel gioco (JS).
