@@ -16,4 +16,4 @@ Quello fisico, con SQL e richieste HTTP al lato Server, gli chiederà più tempo
 
 Buon lavoro per tutti quelli che stanno cercando di concludere la bozza del progetto: le pagine (HTML), interfaccia grafica (CSS) e lo scripting nel gioco (JS).
 
-Questo progetto sarà concluso, con scadenza il [25 Maggio 2023 23:59]
+Questo progetto concluderà, con scadenza il [25 Maggio 2023 23:59]
