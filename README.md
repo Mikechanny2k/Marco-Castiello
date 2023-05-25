@@ -14,6 +14,13 @@ I file sono stati caricati dal 17 maggio: Index.html, Style.css,shop.html e scri
 Il capo progetto ha pubblicato 2 file .png, contengono il modello concettuale e logico del rispettivo ordine di valutazione, durata 1GG il 14 maggio 2023
 Quello fisico, con SQL e richieste HTTP al lato Server, gli chiederà più tempo (max 8gg).
 
-Buon lavoro per tutti quelli che stanno cercando di concludere la bozza del progetto: le pagine (HTML), interfaccia grafica (CSS) e lo scripting nel gioco (JS).
+La release "finale" del gioco (Durata7GG) per le 4°Inf/a e per il capo progetto.
+Questa release sarà compressa da un archivio (.zip), con tutto il progetto seguente:
+HTML: index.html, shop.html
+CSS: Style.css
+JS: script.js
+PHP: Login, Config, Dati Acquisto e LetturaDati e backoffice
+SQL: DATABASE/Prato_crescita_fior
+
 
 Questo progetto concluderà, con scadenza il [25 Maggio 2023 23:59]
