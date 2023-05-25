@@ -20,7 +20,7 @@ HTML: index.html, shop.html
 CSS: Style.css
 JS: script.js
 PHP: Login, Config, Dati Acquisto e LetturaDati e backoffice
-SQL: DATABASE/Prato_crescita_fior
+SQL: DATABASE/Prato_crescita_fiore
 
 
 Questo progetto si concluderà, con scadenza il [25 Maggio 2023 23:59]
