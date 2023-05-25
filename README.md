@@ -23,4 +23,4 @@ PHP: Login, Config, Dati Acquisto e LetturaDati e backoffice
 SQL: DATABASE/Prato_crescita_fior
 
 
-Questo progetto concluderà, con scadenza il [25 Maggio 2023 23:59]
+Questo progetto si concluderà, con scadenza il [25 Maggio 2023 23:59]
