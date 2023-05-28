@@ -10,8 +10,8 @@ In modalità online, verrà richiesto di creare un sistema di login o un account
 La prima parte è stata sviluppata in 8GG con una piccola bozza del progetto. 
 
 
-I file sono stati caricati dal 17 maggio: Index.html, Style.css,shop.html e script.js la parte della Login e config in PHP  sono stati pubblicati nella seconda release (3GG) il 17 Maggio 2023
-Il capo progetto ha pubblicato 2 file .png, contengono il modello concettuale e logico del rispettivo ordine di valutazione, durata 1GG il 14 maggio 2023
+I file sono stati caricati dal (1 parte) 17 Maggio, con rispettivi file: Index.html, Style.css,shop.html e script.js per la parte client e la parte della Login e config in PHP per parte server, sono stati pubblicati nella seconda release (3GG) il 17 Maggio 2023
+Il capo progetto ha pubblicato 2 file .png, e contengono il modello concettuale e logico del rispettivo ordine di valutazione, durata 1GG il 14 maggio 2023
 Quello fisico, con SQL e richieste HTTP al lato Server, gli chiederà più tempo (max 8gg).
 
 La release "finale" del gioco (Durata7GG) per le 4°Inf/a e per il capo progetto.
@@ -23,4 +23,55 @@ PHP: Login, Config, Dati Acquisto e LetturaDati
 SQL: DATABASE/Prato_crescita_fiore
 
 
+Documentazione in JSDOC 2GG 28_05_2023
+
+/**
+ * @typedef {Object} Giocatore
+ * @property {string} nome - Il nome del giocatore.
+ * @property {number} punteggio - Il punteggio attuale del giocatore.
+ * @property {number} semiDisponibili - Il numero di semi disponibili per il giocatore.
+ */
+ 
+ /**
+ * @typedef {Object} Pianta
+ * @property {string} tipo - Il tipo di pianta.
+ * @property {number} punteggio - Il punteggio associato al tipo di pianta.
+ * @property {boolean} fiorita - Indica se la pianta è fiorita.
+ */
+ 
+ /**
+ * @typedef {Object} Gioco
+ * @property {number} punteggioMassimo - Il punteggio massimo che può essere raggiunto per vincere il gioco.
+ * @property {number} semiDisponibili - Il numero totale di semi disponibili nel gioco.
+ * @property {Array.<Giocatore>} giocatori - Gli oggetti dei giocatori partecipanti al gioco.
+ * @property {Array.<Pianta>} piante - Gli oggetti delle piante disponibili nel gioco.
+ * @property {boolean} loginRichiesto - Indica se è richiesto il login per giocare in modalità online.
+ */
+  
+ /**
+ * Acquista semi per un determinato giocatore.
+ * @param {Gioco} gioco - L'oggetto del gioco corrente.
+ * @param {Giocatore} giocatore - L'oggetto del giocatore che acquista i semi.
+ * @param {number} quantita - La quantità di semi da acquistare.
+ * @returns {boolean} Indica se l'acquisto dei semi è stato effettuato con successo.
+ */
+  /**
+ * Effettua il login dell'utente per accedere alla modalità online del gioco.
+ * @param {string} username - L'username dell'utente.
+ * @param {string} password - La password dell'utente.
+ * @returns {boolean} Indica se il login è stato effettuato con successo.
+ */
+
+  function Login(username, password) {
+  
+}
+
+/**
+ * il logout 
+ */
+function Logoutt() {
+
+}
+
 Questo progetto si concluderà, con scadenza il [1 Giugno 2023 14:00]
+
