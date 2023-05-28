@@ -19,7 +19,7 @@ Questa release sarà compressa da un archivio (.zip), con tutto il progetto segu
 HTML: index.html, shop.html
 CSS: Style.css
 JS: script.js
-PHP: Login, Config, Dati Acquisto e LetturaDati e backoffice
+PHP: Login, Config, Dati Acquisto e LetturaDati
 SQL: DATABASE/Prato_crescita_fiore
 
 
