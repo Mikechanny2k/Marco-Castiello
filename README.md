@@ -10,16 +10,16 @@ In modalità online, verrà richiesto di creare un sistema di login o un account
 La prima parte è stata sviluppata in 8GG con una piccola bozza del progetto. 
 
 
-I file sono stati caricati dal (1 parte) 17 Maggio, con rispettivi file: Index.html, Style.css,shop.html e script.js per la parte client e la parte della Login e config in PHP per parte server, sono stati pubblicati nella seconda release (3GG) il 17 Maggio 2023
+I file sono stati caricati dal (1 parte) "17 Maggio", con rispettivi file: Index.html, Style.css,shop.html e script.js per la parte client e la parte della Login e config in PHP per parte server, sono stati pubblicati nella seconda release (3GG) il 17 Maggio 2023
 Il capo progetto ha pubblicato 2 file .png, e contengono il modello concettuale e logico del rispettivo ordine di valutazione, durata 1GG il 14 maggio 2023
 Quello fisico, con SQL e richieste HTTP al lato Server, gli chiederà più tempo (max 8gg).
 
 La release "finale" del gioco (Durata7GG) per le 4°Inf/a e per il capo progetto.
 Questa release sarà compressa da un archivio (.zip), con tutto il progetto seguente:
-HTML: index.html, shop.html
+HTML: index.html, shop.html, login.html e registrazione.html
 CSS: Style.css
 JS: script.js
-PHP: Login, Config, Dati Acquisto e LetturaDati
+PHP: Login, Registrazione Config, Dati Acquisto e LetturaDati
 SQL: DATABASE/Prato_crescita_fiore
 
 
@@ -73,5 +73,5 @@ function Logoutt() {
 
 }
 
-Questo progetto si concluderà, con scadenza il [1 Giugno 2023 14:00]
+Questo progetto si concluderà, con scadenza il [1 Giugno 2023 23:59]
 
