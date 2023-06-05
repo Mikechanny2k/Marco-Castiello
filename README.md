@@ -22,6 +22,8 @@ JS: script.js
 PHP: Login, Registrazione Config, Dati Acquisto e LetturaDati
 SQL: DATABASE/Prato_crescita_fiore
 
+
+
 Gli sviluppatori hanno creato un sistema di shop e un sistema di come giocare con delle regole specifiche, rispettando quelle delle mie.
 Documentazione in JSDOC 2GG 28_05_2023
 
@@ -74,4 +76,7 @@ function Logoutt() {
 }
 
 Questo progetto si concluderà, con scadenza il [1 Giugno 2023 23:59]
+ 
+ 4 Giorno dopo dalla scadenza, Ho scoperto che non hanno concluso la pagine della "classifica", e alcune elementi non troppo essenziali mancano
+Il test si è fatto 1GG
 
