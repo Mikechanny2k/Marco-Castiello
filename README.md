@@ -22,7 +22,7 @@ JS: script.js
 PHP: Login, Registrazione Config, Dati Acquisto e LetturaDati
 SQL: DATABASE/Prato_crescita_fiore
 
-Gli sviluppatori hanno creato un sistema di shop e un sistema di come giocare con delle regole specifiche
+Gli sviluppatori hanno creato un sistema di shop e un sistema di come giocare con delle regole specifiche, rispettando quelle delle mie.
 Documentazione in JSDOC 2GG 28_05_2023
 
 /**
